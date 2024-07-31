@@ -1,0 +1,13 @@
+{
+  "email": "e_mail",
+  "password": "mot de passe",
+  "loginButton": "Se Connecter",
+  "haveaccount": "Vous n'avez pas de compte ?",
+  "Signup": "S'inscrire",
+  "fcblogin": "Connecter avec Facebook",
+  "forgetlogin": "Vous avez oublié vos identifiants\n de connexion?",
+  "Gethelp": "\nObtenir de l'aide",
+  "or": "OU",
+  "Username": "Nom",
+  "phone": "Numéro de téléphone"
+}

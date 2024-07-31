@@ -1,0 +1,13 @@
+{
+  "email": "Email",
+  "password": "Password",
+  "loginButton": "Log In",
+  "haveaccount": "Don't have an account? ",
+  "Signup": "Sign up",
+  "fcblogin": "Login with facebook",
+  "forgetlogin": "Forgot your login details?",
+  "Gethelp": "Get help",
+  "or": "OR",
+  "Username": "UserName",
+  "phone": "Phone Number"
+}
